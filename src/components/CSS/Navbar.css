@@ -1,0 +1,8 @@
+.navbar{
+    color: #fff;
+    display : flex;
+    justify-content: center;
+    font-size: 30;
+    background-color : #343a40;
+    width : 100%;
+  }
